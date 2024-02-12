@@ -1,0 +1,3 @@
+/home/stoi/c++/src/MyLib/build/CMakeFiles/mylib.dir
+/home/stoi/c++/src/MyLib/build/CMakeFiles/edit_cache.dir
+/home/stoi/c++/src/MyLib/build/CMakeFiles/rebuild_cache.dir
