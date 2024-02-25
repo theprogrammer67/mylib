@@ -3,7 +3,7 @@
 	"tasks": [
 		{
 			"type": "cppbuild",
-			"label": "C/C++: g++ build",
+			"label": "lib build",
 			"command": "/usr/bin/g++",
 			"args": [
 				"-fdiagnostics-color=always",
@@ -25,7 +25,7 @@
 				"kind": "build",
 				"isDefault": true
 			},
-			"detail": "Задача создана отладчиком."
+			"detail": "Сборка библиотеки"
 		}
 	]
 }

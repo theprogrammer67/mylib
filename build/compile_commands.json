@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/stoi/c++/src/MyLib/build",
-  "command": "/usr/bin/c++ -Dmylib_EXPORTS  -g -fPIC -o CMakeFiles/mylib.dir/mylib.cpp.o -c /home/stoi/c++/src/MyLib/mylib.cpp",
-  "file": "/home/stoi/c++/src/MyLib/mylib.cpp"
-}
-]
